@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangomkt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangomkt" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mangomkt&repo=straight-email-sig)](https://github.com/anuraghazra/github-readme-stats)
+[![Straight Email Signature Generator](https://github-readme-stats.vercel.app/api/pin/?username=mangomkt&repo=straight-email-sig)](straight-email-sig.netlify.app)
 <!--
 **mangomkt/mangomkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
