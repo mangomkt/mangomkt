@@ -1,7 +1,6 @@
 # Mango MKT Repository
 ### Developer: Curtis R Grant
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangomkt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangomkt" />
 
 ## Straight Email Signature Generator
