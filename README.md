@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangomkt" />
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangomkt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangomkt)
