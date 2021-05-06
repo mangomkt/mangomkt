@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangomkt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangomkt" />
-[![mangomkt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mangomkt)](https://github.com/mangomkt/github-readme-stats)
+[![mangomkt's wakatime stats](https://github-readme-stats.vercel.app/api/straight-email-sig?username=mangomkt)](https://github.com/mangomkt/github-readme-stats)
 <!--
 **mangomkt/mangomkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
